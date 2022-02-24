@@ -1,0 +1,7 @@
+helpers
+extensions
+selenium==4.1.0
+webdriver-manager==3.5.3
+pytest==7.0.1
+pluggy==0.13.1
+requests~=2.27.1

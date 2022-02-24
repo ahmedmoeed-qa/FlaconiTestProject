@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+FlaconiProject.iml
+cookies.pkl
+*.pyc
+tests/__pycache__/
+
